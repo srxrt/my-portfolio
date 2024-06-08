@@ -35,7 +35,9 @@ const Hero = () => {
 
 					<p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
 						{" "}
-						Hi, I&apos;m Shoxrux, a ReactJS developer based in South Korea
+						Hi, I&apos;m SHOX
+						<span className="text-[#5207ca] font-bold">RUX</span>, a React.JS
+						developer based in South Korea
 					</p>
 					<a href="#about">
 						<MagicButton
