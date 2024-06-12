@@ -17,3 +17,11 @@ export default function Home() {
 		</main>
 	);
 }
+
+/*
+SENTRY_AUTH_TOKEN =
+	sntrys_eyJpYXQiOjE3MTgyMTI1MTQuMDkzODUxLCJ1cmwiOiJodHRwczovL3NlbnRyeS5pbyIsInJlZ2lvbl91cmwiOiJodHRwczovL2RlLnNlbnRyeS5pbyIsIm9yZyI6InJ1eGNvZGVzIn0 =
+		_bYaSOOGsxXnd + sVVIWGSU8lQsNRpUGXpT0z9Iv87T7s;
+
+
+*/
